@@ -5,18 +5,27 @@ the top of the profile page. It does not belong to the resume build; it's kept
 here so it stays in sync with the resume as the source of truth for facts.
 -->
 
-## Joel Kelly
+## Greetings!
 
-Senior Staff Engineer, two decades building consumer products at scale, from a startup through acquisition and several org pivots. I work end to end, with a feel for how each layer beneath a surface shapes the experience on top of it. I try to understand the real goal beneath the problem being surfaced, and to keep hold of the humanity inside the technology.
+I am a wildly curious engineer that has always been drawn to the potential of technology.
 
-My independent work now runs AI-native. I'm building a knowledge-recall layer that models how memory surfaces the right thing at the right moment, and the agent tooling and evaluations around it.
+What pulls me in is how every layer of machinery beneath a surface shapes what someone feels on top of it. I try to understand the real goal beneath whatever problem gets surfaced, and to keep hold of the humanity inside the technology.
 
-### What I'm building
+### What I'm making
 
-- **Knowledge Recall & Agent-Grounding System** — a personal system that captures, synthesizes, and recalls knowledge to assemble grounding for an LLM. The recall layer is the part most "second brain" tools skip, a set of hot/warm/cold salience tiers with cued push and facet-based pull, exposed to agents through a set of MCP servers, with an eval harness that runs a headless agent through real tasks and checks it stayed on the intended path.
+- **Knowledge Recall & Agent-Grounding System** — a personal system that captures, synthesizes, and recalls knowledge to assemble grounding for an LLM. The recall layer is the part most "second brain" tools skip, a set of hot/warm/cold salience tiers with cued push and facet-based pull, exposed to agents through a set of MCP servers, with an eval harness that runs a headless agent through real tasks and checks it stayed on the intended path. It mixes local models with frontier ones to keep context lean.
 - **Seekbox** — a save-and-recall product for articles, video, and podcasts. Browser extension, Next.js web app, and a GraphQL API, with an OpenGraph enrichment pipeline and weighted full-text search over Postgres.
 
-Both are solo projects and private for now. I'm working through the ideas in the open in the writing below.
+
+Both are solo projects and private for now. I think out loud through the writing below.
+
+### What I reach for
+
+- **Core** — TypeScript (front and back)
+- **Frontend** — React/Solidjs/Vue, Next.js, Zustand, Astro, HTML, CSS 
+- **Backend and data** — Node.js, GraphQL, REST, Postgres, Drizzle, Supabase
+- **AI and infra** — MCP servers, LLM eval harnesses, CI/CD
+- **Learning** — Python, Bun, Deno
 
 ### Writing — [collected-mind.com](https://collected-mind.com)
 
@@ -26,4 +35,4 @@ Both are solo projects and private for now. I'm working through the ideas in the
 
 ### Elsewhere
 
-[collected-mind.com](https://collected-mind.com) · [LinkedIn](https://www.linkedin.com/in/joelmkelly)
+[LinkedIn](https://www.linkedin.com/in/joelmkelly)
